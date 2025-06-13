@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "types": [
+      "@types/chrome"
+    ],
+    "strict": true,
+    "module": "commonjs",
+    "target": "es6",
+    "esModuleInterop": true,
+    "sourceMap": true,
+  },
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
